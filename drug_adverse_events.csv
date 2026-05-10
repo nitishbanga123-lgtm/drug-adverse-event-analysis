@@ -1,0 +1,501 @@
+﻿Report_ID,Date,Drug_Name,Drug_Class,Patient_Age,Gender,Reaction_Type,Severity,Outcome,Country,Hospitalization
+3001,2025-01-02,Metformin,Antidiabetic,43,Male,Nausea,Moderate,Recovered,India,No
+3002,2025-01-03,Aspirin,NSAID,73,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3003,2025-01-04,Ibuprofen,NSAID,23,Female,Dizziness,Mild,Recovered,India,No
+3004,2025-01-05,Atorvastatin,Statin,58,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3005,2025-01-06,Omeprazole,PPI,36,Female,Headache,Mild,Recovered,India,No
+3006,2025-01-07,Metformin,Antidiabetic,48,Male,Diarrhea,Moderate,Recovered,India,No
+3007,2025-01-08,Aspirin,NSAID,64,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3008,2025-01-09,Ibuprofen,NSAID,72,Female,Rash,Mild,Recovered,India,No
+3009,2025-01-10,Atorvastatin,Statin,28,Female,Muscle Pain,Moderate,Ongoing,India,No
+3010,2025-01-11,Omeprazole,PPI,53,Male,Dizziness,Mild,Recovered,India,No
+3011,2025-01-12,Metformin,Antidiabetic,29,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3012,2025-01-13,Aspirin,NSAID,30,Male,Nausea,Mild,Recovered,India,No
+3013,2025-01-14,Ibuprofen,NSAID,55,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3014,2025-01-15,Atorvastatin,Statin,73,Female,Headache,Mild,Recovered,India,No
+3015,2025-01-16,Omeprazole,PPI,47,Male,Rash,Mild,Recovered,India,No
+3016,2025-01-17,Metformin,Antidiabetic,52,Male,Nausea,Moderate,Ongoing,India,No
+3017,2025-01-18,Aspirin,NSAID,57,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3018,2025-01-19,Ibuprofen,NSAID,30,Female,Headache,Mild,Recovered,India,No
+3019,2025-01-20,Atorvastatin,Statin,75,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3020,2025-01-21,Omeprazole,PPI,81,Male,Nausea,Mild,Recovered,India,No
+3021,2025-01-22,Metformin,Antidiabetic,71,Female,Diarrhea,Moderate,Recovered,India,No
+3022,2025-01-23,Aspirin,NSAID,75,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3023,2025-01-24,Ibuprofen,NSAID,60,Female,Rash,Mild,Recovered,India,No
+3024,2025-01-25,Atorvastatin,Statin,33,Female,Muscle Pain,Moderate,Ongoing,India,No
+3025,2025-01-26,Omeprazole,PPI,34,Male,Dizziness,Mild,Recovered,India,No
+3026,2025-01-27,Metformin,Antidiabetic,41,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3027,2025-01-28,Aspirin,NSAID,72,Female,Nausea,Mild,Recovered,India,No
+3028,2025-01-29,Ibuprofen,NSAID,34,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3029,2025-01-30,Atorvastatin,Statin,21,Female,Headache,Mild,Recovered,India,No
+3030,2025-01-31,Omeprazole,PPI,58,Female,Rash,Mild,Recovered,India,No
+3031,2025-02-01,Metformin,Antidiabetic,76,Female,Nausea,Moderate,Ongoing,India,No
+3032,2025-02-02,Aspirin,NSAID,53,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3033,2025-02-03,Ibuprofen,NSAID,22,Female,Headache,Mild,Recovered,India,No
+3034,2025-02-04,Atorvastatin,Statin,77,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3035,2025-02-05,Omeprazole,PPI,48,Male,Dizziness,Mild,Recovered,India,No
+3036,2025-02-06,Metformin,Antidiabetic,51,Female,Diarrhea,Moderate,Recovered,India,No
+3037,2025-02-07,Aspirin,NSAID,52,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3038,2025-02-08,Ibuprofen,NSAID,50,Female,Rash,Mild,Recovered,India,No
+3039,2025-02-09,Atorvastatin,Statin,51,Female,Muscle Pain,Moderate,Ongoing,India,No
+3040,2025-02-10,Omeprazole,PPI,85,Male,Nausea,Mild,Recovered,India,No
+3041,2025-02-11,Metformin,Antidiabetic,81,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3042,2025-02-12,Aspirin,NSAID,30,Female,Nausea,Mild,Recovered,India,No
+3043,2025-02-13,Ibuprofen,NSAID,79,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3044,2025-02-14,Atorvastatin,Statin,65,Female,Headache,Mild,Recovered,India,No
+3045,2025-02-15,Omeprazole,PPI,67,Female,Rash,Mild,Recovered,India,No
+3046,2025-02-16,Metformin,Antidiabetic,43,Male,Nausea,Moderate,Ongoing,India,No
+3047,2025-02-17,Aspirin,NSAID,77,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3048,2025-02-18,Ibuprofen,NSAID,39,Male,Headache,Mild,Recovered,India,No
+3049,2025-02-19,Atorvastatin,Statin,71,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3050,2025-02-20,Omeprazole,PPI,40,Female,Dizziness,Mild,Recovered,India,No
+3051,2025-02-21,Metformin,Antidiabetic,64,Male,Nausea,Moderate,Recovered,India,No
+3052,2025-02-22,Aspirin,NSAID,30,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3053,2025-02-23,Ibuprofen,NSAID,82,Male,Dizziness,Mild,Recovered,India,No
+3054,2025-02-24,Atorvastatin,Statin,45,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3055,2025-02-25,Omeprazole,PPI,49,Female,Headache,Mild,Recovered,India,No
+3056,2025-02-26,Metformin,Antidiabetic,46,Male,Diarrhea,Moderate,Recovered,India,No
+3057,2025-02-27,Aspirin,NSAID,25,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3058,2025-02-28,Ibuprofen,NSAID,82,Male,Rash,Mild,Recovered,India,No
+3059,2025-03-01,Atorvastatin,Statin,36,Female,Muscle Pain,Moderate,Ongoing,India,No
+3060,2025-03-02,Omeprazole,PPI,72,Female,Dizziness,Mild,Recovered,India,No
+3061,2025-03-03,Metformin,Antidiabetic,56,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3062,2025-03-04,Aspirin,NSAID,22,Male,Nausea,Mild,Recovered,India,No
+3063,2025-03-05,Ibuprofen,NSAID,77,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3064,2025-03-06,Atorvastatin,Statin,38,Female,Headache,Mild,Recovered,India,No
+3065,2025-03-07,Omeprazole,PPI,18,Female,Rash,Mild,Recovered,India,No
+3066,2025-03-08,Metformin,Antidiabetic,30,Female,Nausea,Moderate,Ongoing,India,No
+3067,2025-03-09,Aspirin,NSAID,51,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3068,2025-03-10,Ibuprofen,NSAID,75,Male,Headache,Mild,Recovered,India,No
+3069,2025-03-11,Atorvastatin,Statin,21,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3070,2025-03-12,Omeprazole,PPI,48,Female,Nausea,Mild,Recovered,India,No
+3071,2025-03-13,Metformin,Antidiabetic,27,Male,Diarrhea,Moderate,Recovered,India,No
+3072,2025-03-14,Aspirin,NSAID,34,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3073,2025-03-15,Ibuprofen,NSAID,30,Male,Rash,Mild,Recovered,India,No
+3074,2025-03-16,Atorvastatin,Statin,48,Female,Muscle Pain,Moderate,Ongoing,India,No
+3075,2025-03-17,Omeprazole,PPI,75,Female,Dizziness,Mild,Recovered,India,No
+3076,2025-03-18,Metformin,Antidiabetic,18,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3077,2025-03-19,Aspirin,NSAID,21,Female,Nausea,Mild,Recovered,India,No
+3078,2025-03-20,Ibuprofen,NSAID,75,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3079,2025-03-21,Atorvastatin,Statin,22,Male,Headache,Mild,Recovered,India,No
+3080,2025-03-22,Omeprazole,PPI,22,Male,Rash,Mild,Recovered,India,No
+3081,2025-03-23,Metformin,Antidiabetic,80,Female,Nausea,Moderate,Ongoing,India,No
+3082,2025-03-24,Aspirin,NSAID,49,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3083,2025-03-25,Ibuprofen,NSAID,50,Male,Headache,Mild,Recovered,India,No
+3084,2025-03-26,Atorvastatin,Statin,68,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3085,2025-03-27,Omeprazole,PPI,70,Female,Dizziness,Mild,Recovered,India,No
+3086,2025-03-28,Metformin,Antidiabetic,34,Male,Diarrhea,Moderate,Recovered,India,No
+3087,2025-03-29,Aspirin,NSAID,28,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3088,2025-03-30,Ibuprofen,NSAID,31,Female,Rash,Mild,Recovered,India,No
+3089,2025-03-31,Atorvastatin,Statin,44,Female,Muscle Pain,Moderate,Ongoing,India,No
+3090,2025-04-01,Omeprazole,PPI,83,Male,Nausea,Mild,Recovered,India,No
+3091,2025-04-02,Metformin,Antidiabetic,40,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3092,2025-04-03,Aspirin,NSAID,19,Male,Nausea,Mild,Recovered,India,No
+3093,2025-04-04,Ibuprofen,NSAID,78,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3094,2025-04-05,Atorvastatin,Statin,38,Male,Headache,Mild,Recovered,India,No
+3095,2025-04-06,Omeprazole,PPI,59,Female,Rash,Mild,Recovered,India,No
+3096,2025-04-07,Metformin,Antidiabetic,61,Male,Nausea,Moderate,Ongoing,India,No
+3097,2025-04-08,Aspirin,NSAID,69,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3098,2025-04-09,Ibuprofen,NSAID,70,Male,Headache,Mild,Recovered,India,No
+3099,2025-04-10,Atorvastatin,Statin,53,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3100,2025-04-11,Omeprazole,PPI,58,Male,Dizziness,Mild,Recovered,India,No
+3101,2025-04-12,Metformin,Antidiabetic,65,Male,Nausea,Moderate,Recovered,India,No
+3102,2025-04-13,Aspirin,NSAID,78,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3103,2025-04-14,Ibuprofen,NSAID,21,Male,Dizziness,Mild,Recovered,India,No
+3104,2025-04-15,Atorvastatin,Statin,43,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3105,2025-04-16,Omeprazole,PPI,35,Male,Headache,Mild,Recovered,India,No
+3106,2025-04-17,Metformin,Antidiabetic,28,Female,Diarrhea,Moderate,Recovered,India,No
+3107,2025-04-18,Aspirin,NSAID,21,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3108,2025-04-19,Ibuprofen,NSAID,42,Female,Rash,Mild,Recovered,India,No
+3109,2025-04-20,Atorvastatin,Statin,25,Female,Muscle Pain,Moderate,Ongoing,India,No
+3110,2025-04-21,Omeprazole,PPI,37,Male,Dizziness,Mild,Recovered,India,No
+3111,2025-04-22,Metformin,Antidiabetic,19,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3112,2025-04-23,Aspirin,NSAID,23,Male,Nausea,Mild,Recovered,India,No
+3113,2025-04-24,Ibuprofen,NSAID,41,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3114,2025-04-25,Atorvastatin,Statin,29,Male,Headache,Mild,Recovered,India,No
+3115,2025-04-26,Omeprazole,PPI,48,Female,Rash,Mild,Recovered,India,No
+3116,2025-04-27,Metformin,Antidiabetic,68,Female,Nausea,Moderate,Ongoing,India,No
+3117,2025-04-28,Aspirin,NSAID,51,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3118,2025-04-29,Ibuprofen,NSAID,38,Male,Headache,Mild,Recovered,India,No
+3119,2025-04-30,Atorvastatin,Statin,63,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3120,2025-05-01,Omeprazole,PPI,39,Male,Nausea,Mild,Recovered,India,No
+3121,2025-05-02,Metformin,Antidiabetic,58,Male,Diarrhea,Moderate,Recovered,India,No
+3122,2025-05-03,Aspirin,NSAID,39,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3123,2025-05-04,Ibuprofen,NSAID,31,Male,Rash,Mild,Recovered,India,No
+3124,2025-05-05,Atorvastatin,Statin,49,Male,Muscle Pain,Moderate,Ongoing,India,No
+3125,2025-05-06,Omeprazole,PPI,18,Male,Dizziness,Mild,Recovered,India,No
+3126,2025-05-07,Metformin,Antidiabetic,64,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3127,2025-05-08,Aspirin,NSAID,74,Male,Nausea,Mild,Recovered,India,No
+3128,2025-05-09,Ibuprofen,NSAID,59,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3129,2025-05-10,Atorvastatin,Statin,47,Female,Headache,Mild,Recovered,India,No
+3130,2025-05-11,Omeprazole,PPI,51,Male,Rash,Mild,Recovered,India,No
+3131,2025-05-12,Metformin,Antidiabetic,31,Male,Nausea,Moderate,Ongoing,India,No
+3132,2025-05-13,Aspirin,NSAID,59,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3133,2025-05-14,Ibuprofen,NSAID,20,Female,Headache,Mild,Recovered,India,No
+3134,2025-05-15,Atorvastatin,Statin,60,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3135,2025-05-16,Omeprazole,PPI,66,Male,Dizziness,Mild,Recovered,India,No
+3136,2025-05-17,Metformin,Antidiabetic,62,Male,Diarrhea,Moderate,Recovered,India,No
+3137,2025-05-18,Aspirin,NSAID,71,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3138,2025-05-19,Ibuprofen,NSAID,42,Male,Rash,Mild,Recovered,India,No
+3139,2025-05-20,Atorvastatin,Statin,40,Female,Muscle Pain,Moderate,Ongoing,India,No
+3140,2025-05-21,Omeprazole,PPI,54,Male,Nausea,Mild,Recovered,India,No
+3141,2025-05-22,Metformin,Antidiabetic,50,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3142,2025-05-23,Aspirin,NSAID,38,Male,Nausea,Mild,Recovered,India,No
+3143,2025-05-24,Ibuprofen,NSAID,67,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3144,2025-05-25,Atorvastatin,Statin,25,Female,Headache,Mild,Recovered,India,No
+3145,2025-05-26,Omeprazole,PPI,34,Male,Rash,Mild,Recovered,India,No
+3146,2025-05-27,Metformin,Antidiabetic,33,Male,Nausea,Moderate,Ongoing,India,No
+3147,2025-05-28,Aspirin,NSAID,24,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3148,2025-05-29,Ibuprofen,NSAID,65,Female,Headache,Mild,Recovered,India,No
+3149,2025-05-30,Atorvastatin,Statin,79,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3150,2025-05-31,Omeprazole,PPI,58,Male,Dizziness,Mild,Recovered,India,No
+3151,2025-06-01,Metformin,Antidiabetic,59,Male,Nausea,Moderate,Recovered,India,No
+3152,2025-06-02,Aspirin,NSAID,80,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3153,2025-06-03,Ibuprofen,NSAID,73,Male,Dizziness,Mild,Recovered,India,No
+3154,2025-06-04,Atorvastatin,Statin,51,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3155,2025-06-05,Omeprazole,PPI,52,Female,Headache,Mild,Recovered,India,No
+3156,2025-06-06,Metformin,Antidiabetic,42,Female,Diarrhea,Moderate,Recovered,India,No
+3157,2025-06-07,Aspirin,NSAID,75,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3158,2025-06-08,Ibuprofen,NSAID,80,Female,Rash,Mild,Recovered,India,No
+3159,2025-06-09,Atorvastatin,Statin,65,Female,Muscle Pain,Moderate,Ongoing,India,No
+3160,2025-06-10,Omeprazole,PPI,76,Male,Dizziness,Mild,Recovered,India,No
+3161,2025-06-11,Metformin,Antidiabetic,81,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3162,2025-06-12,Aspirin,NSAID,59,Female,Nausea,Mild,Recovered,India,No
+3163,2025-06-13,Ibuprofen,NSAID,24,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3164,2025-06-14,Atorvastatin,Statin,76,Female,Headache,Mild,Recovered,India,No
+3165,2025-06-15,Omeprazole,PPI,61,Female,Rash,Mild,Recovered,India,No
+3166,2025-06-16,Metformin,Antidiabetic,73,Male,Nausea,Moderate,Ongoing,India,No
+3167,2025-06-17,Aspirin,NSAID,25,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3168,2025-06-18,Ibuprofen,NSAID,69,Female,Headache,Mild,Recovered,India,No
+3169,2025-06-19,Atorvastatin,Statin,59,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3170,2025-06-20,Omeprazole,PPI,54,Male,Nausea,Mild,Recovered,India,No
+3171,2025-06-21,Metformin,Antidiabetic,22,Male,Diarrhea,Moderate,Recovered,India,No
+3172,2025-06-22,Aspirin,NSAID,30,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3173,2025-06-23,Ibuprofen,NSAID,39,Female,Rash,Mild,Recovered,India,No
+3174,2025-06-24,Atorvastatin,Statin,48,Male,Muscle Pain,Moderate,Ongoing,India,No
+3175,2025-06-25,Omeprazole,PPI,61,Female,Dizziness,Mild,Recovered,India,No
+3176,2025-06-26,Metformin,Antidiabetic,28,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3177,2025-06-27,Aspirin,NSAID,71,Male,Nausea,Mild,Recovered,India,No
+3178,2025-06-28,Ibuprofen,NSAID,67,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3179,2025-06-29,Atorvastatin,Statin,42,Male,Headache,Mild,Recovered,India,No
+3180,2025-06-30,Omeprazole,PPI,29,Male,Rash,Mild,Recovered,India,No
+3181,2025-07-01,Metformin,Antidiabetic,39,Female,Nausea,Moderate,Ongoing,India,No
+3182,2025-07-02,Aspirin,NSAID,84,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3183,2025-07-03,Ibuprofen,NSAID,83,Male,Headache,Mild,Recovered,India,No
+3184,2025-07-04,Atorvastatin,Statin,79,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3185,2025-07-05,Omeprazole,PPI,75,Female,Dizziness,Mild,Recovered,India,No
+3186,2025-07-06,Metformin,Antidiabetic,84,Female,Diarrhea,Moderate,Recovered,India,No
+3187,2025-07-07,Aspirin,NSAID,71,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3188,2025-07-08,Ibuprofen,NSAID,73,Female,Rash,Mild,Recovered,India,No
+3189,2025-07-09,Atorvastatin,Statin,18,Male,Muscle Pain,Moderate,Ongoing,India,No
+3190,2025-07-10,Omeprazole,PPI,68,Female,Nausea,Mild,Recovered,India,No
+3191,2025-07-11,Metformin,Antidiabetic,44,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3192,2025-07-12,Aspirin,NSAID,72,Female,Nausea,Mild,Recovered,India,No
+3193,2025-07-13,Ibuprofen,NSAID,48,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3194,2025-07-14,Atorvastatin,Statin,40,Female,Headache,Mild,Recovered,India,No
+3195,2025-07-15,Omeprazole,PPI,76,Female,Rash,Mild,Recovered,India,No
+3196,2025-07-16,Metformin,Antidiabetic,34,Male,Nausea,Moderate,Ongoing,India,No
+3197,2025-07-17,Aspirin,NSAID,26,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3198,2025-07-18,Ibuprofen,NSAID,36,Male,Headache,Mild,Recovered,India,No
+3199,2025-07-19,Atorvastatin,Statin,62,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3200,2025-07-20,Omeprazole,PPI,34,Male,Dizziness,Mild,Recovered,India,No
+3201,2025-07-21,Metformin,Antidiabetic,22,Male,Nausea,Moderate,Recovered,India,No
+3202,2025-07-22,Aspirin,NSAID,65,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3203,2025-07-23,Ibuprofen,NSAID,18,Female,Dizziness,Mild,Recovered,India,No
+3204,2025-07-24,Atorvastatin,Statin,46,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3205,2025-07-25,Omeprazole,PPI,72,Male,Headache,Mild,Recovered,India,No
+3206,2025-07-26,Metformin,Antidiabetic,24,Male,Diarrhea,Moderate,Recovered,India,No
+3207,2025-07-27,Aspirin,NSAID,50,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3208,2025-07-28,Ibuprofen,NSAID,73,Male,Rash,Mild,Recovered,India,No
+3209,2025-07-29,Atorvastatin,Statin,37,Male,Muscle Pain,Moderate,Ongoing,India,No
+3210,2025-07-30,Omeprazole,PPI,43,Female,Dizziness,Mild,Recovered,India,No
+3211,2025-07-31,Metformin,Antidiabetic,50,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3212,2025-08-01,Aspirin,NSAID,31,Male,Nausea,Mild,Recovered,India,No
+3213,2025-08-02,Ibuprofen,NSAID,37,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3214,2025-08-03,Atorvastatin,Statin,62,Male,Headache,Mild,Recovered,India,No
+3215,2025-08-04,Omeprazole,PPI,47,Male,Rash,Mild,Recovered,India,No
+3216,2025-08-05,Metformin,Antidiabetic,70,Male,Nausea,Moderate,Ongoing,India,No
+3217,2025-08-06,Aspirin,NSAID,39,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3218,2025-08-07,Ibuprofen,NSAID,31,Female,Headache,Mild,Recovered,India,No
+3219,2025-08-08,Atorvastatin,Statin,67,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3220,2025-08-09,Omeprazole,PPI,28,Female,Nausea,Mild,Recovered,India,No
+3221,2025-08-10,Metformin,Antidiabetic,75,Female,Diarrhea,Moderate,Recovered,India,No
+3222,2025-08-11,Aspirin,NSAID,67,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3223,2025-08-12,Ibuprofen,NSAID,24,Male,Rash,Mild,Recovered,India,No
+3224,2025-08-13,Atorvastatin,Statin,63,Female,Muscle Pain,Moderate,Ongoing,India,No
+3225,2025-08-14,Omeprazole,PPI,50,Male,Dizziness,Mild,Recovered,India,No
+3226,2025-08-15,Metformin,Antidiabetic,56,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3227,2025-08-16,Aspirin,NSAID,35,Female,Nausea,Mild,Recovered,India,No
+3228,2025-08-17,Ibuprofen,NSAID,47,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3229,2025-08-18,Atorvastatin,Statin,44,Female,Headache,Mild,Recovered,India,No
+3230,2025-08-19,Omeprazole,PPI,55,Male,Rash,Mild,Recovered,India,No
+3231,2025-08-20,Metformin,Antidiabetic,44,Male,Nausea,Moderate,Ongoing,India,No
+3232,2025-08-21,Aspirin,NSAID,38,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3233,2025-08-22,Ibuprofen,NSAID,74,Female,Headache,Mild,Recovered,India,No
+3234,2025-08-23,Atorvastatin,Statin,67,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3235,2025-08-24,Omeprazole,PPI,68,Female,Dizziness,Mild,Recovered,India,No
+3236,2025-08-25,Metformin,Antidiabetic,54,Male,Diarrhea,Moderate,Recovered,India,No
+3237,2025-08-26,Aspirin,NSAID,69,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3238,2025-08-27,Ibuprofen,NSAID,32,Female,Rash,Mild,Recovered,India,No
+3239,2025-08-28,Atorvastatin,Statin,63,Male,Muscle Pain,Moderate,Ongoing,India,No
+3240,2025-08-29,Omeprazole,PPI,26,Male,Nausea,Mild,Recovered,India,No
+3241,2025-08-30,Metformin,Antidiabetic,69,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3242,2025-08-31,Aspirin,NSAID,79,Female,Nausea,Mild,Recovered,India,No
+3243,2025-09-01,Ibuprofen,NSAID,37,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3244,2025-09-02,Atorvastatin,Statin,62,Male,Headache,Mild,Recovered,India,No
+3245,2025-09-03,Omeprazole,PPI,29,Female,Rash,Mild,Recovered,India,No
+3246,2025-09-04,Metformin,Antidiabetic,67,Female,Nausea,Moderate,Ongoing,India,No
+3247,2025-09-05,Aspirin,NSAID,37,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3248,2025-09-06,Ibuprofen,NSAID,24,Female,Headache,Mild,Recovered,India,No
+3249,2025-09-07,Atorvastatin,Statin,78,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3250,2025-09-08,Omeprazole,PPI,81,Male,Dizziness,Mild,Recovered,India,No
+3251,2025-09-09,Metformin,Antidiabetic,56,Female,Nausea,Moderate,Recovered,India,No
+3252,2025-09-10,Aspirin,NSAID,51,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3253,2025-09-11,Ibuprofen,NSAID,83,Male,Dizziness,Mild,Recovered,India,No
+3254,2025-09-12,Atorvastatin,Statin,70,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3255,2025-09-13,Omeprazole,PPI,38,Female,Headache,Mild,Recovered,India,No
+3256,2025-09-14,Metformin,Antidiabetic,58,Male,Diarrhea,Moderate,Recovered,India,No
+3257,2025-09-15,Aspirin,NSAID,29,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3258,2025-09-16,Ibuprofen,NSAID,38,Female,Rash,Mild,Recovered,India,No
+3259,2025-09-17,Atorvastatin,Statin,57,Male,Muscle Pain,Moderate,Ongoing,India,No
+3260,2025-09-18,Omeprazole,PPI,67,Female,Dizziness,Mild,Recovered,India,No
+3261,2025-09-19,Metformin,Antidiabetic,65,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3262,2025-09-20,Aspirin,NSAID,56,Female,Nausea,Mild,Recovered,India,No
+3263,2025-09-21,Ibuprofen,NSAID,84,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3264,2025-09-22,Atorvastatin,Statin,64,Female,Headache,Mild,Recovered,India,No
+3265,2025-09-23,Omeprazole,PPI,46,Male,Rash,Mild,Recovered,India,No
+3266,2025-09-24,Metformin,Antidiabetic,48,Male,Nausea,Moderate,Ongoing,India,No
+3267,2025-09-25,Aspirin,NSAID,56,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3268,2025-09-26,Ibuprofen,NSAID,69,Male,Headache,Mild,Recovered,India,No
+3269,2025-09-27,Atorvastatin,Statin,75,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3270,2025-09-28,Omeprazole,PPI,81,Male,Nausea,Mild,Recovered,India,No
+3271,2025-09-29,Metformin,Antidiabetic,21,Male,Diarrhea,Moderate,Recovered,India,No
+3272,2025-09-30,Aspirin,NSAID,81,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3273,2025-10-01,Ibuprofen,NSAID,85,Male,Rash,Mild,Recovered,India,No
+3274,2025-10-02,Atorvastatin,Statin,29,Female,Muscle Pain,Moderate,Ongoing,India,No
+3275,2025-10-03,Omeprazole,PPI,29,Female,Dizziness,Mild,Recovered,India,No
+3276,2025-10-04,Metformin,Antidiabetic,24,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3277,2025-10-05,Aspirin,NSAID,39,Male,Nausea,Mild,Recovered,India,No
+3278,2025-10-06,Ibuprofen,NSAID,47,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3279,2025-10-07,Atorvastatin,Statin,63,Male,Headache,Mild,Recovered,India,No
+3280,2025-10-08,Omeprazole,PPI,54,Male,Rash,Mild,Recovered,India,No
+3281,2025-10-09,Metformin,Antidiabetic,73,Male,Nausea,Moderate,Ongoing,India,No
+3282,2025-10-10,Aspirin,NSAID,71,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3283,2025-10-11,Ibuprofen,NSAID,84,Male,Headache,Mild,Recovered,India,No
+3284,2025-10-12,Atorvastatin,Statin,20,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3285,2025-10-13,Omeprazole,PPI,79,Female,Dizziness,Mild,Recovered,India,No
+3286,2025-10-14,Metformin,Antidiabetic,51,Female,Diarrhea,Moderate,Recovered,India,No
+3287,2025-10-15,Aspirin,NSAID,31,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3288,2025-10-16,Ibuprofen,NSAID,43,Female,Rash,Mild,Recovered,India,No
+3289,2025-10-17,Atorvastatin,Statin,62,Male,Muscle Pain,Moderate,Ongoing,India,No
+3290,2025-10-18,Omeprazole,PPI,26,Female,Nausea,Mild,Recovered,India,No
+3291,2025-10-19,Metformin,Antidiabetic,26,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3292,2025-10-20,Aspirin,NSAID,39,Male,Nausea,Mild,Recovered,India,No
+3293,2025-10-21,Ibuprofen,NSAID,26,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3294,2025-10-22,Atorvastatin,Statin,83,Female,Headache,Mild,Recovered,India,No
+3295,2025-10-23,Omeprazole,PPI,63,Female,Rash,Mild,Recovered,India,No
+3296,2025-10-24,Metformin,Antidiabetic,64,Male,Nausea,Moderate,Ongoing,India,No
+3297,2025-10-25,Aspirin,NSAID,20,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3298,2025-10-26,Ibuprofen,NSAID,18,Female,Headache,Mild,Recovered,India,No
+3299,2025-10-27,Atorvastatin,Statin,30,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3300,2025-10-28,Omeprazole,PPI,48,Female,Dizziness,Mild,Recovered,India,No
+3301,2025-10-29,Metformin,Antidiabetic,77,Female,Nausea,Moderate,Recovered,India,No
+3302,2025-10-30,Aspirin,NSAID,52,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3303,2025-10-31,Ibuprofen,NSAID,74,Male,Dizziness,Mild,Recovered,India,No
+3304,2025-11-01,Atorvastatin,Statin,62,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3305,2025-11-02,Omeprazole,PPI,30,Male,Headache,Mild,Recovered,India,No
+3306,2025-11-03,Metformin,Antidiabetic,24,Male,Diarrhea,Moderate,Recovered,India,No
+3307,2025-11-04,Aspirin,NSAID,66,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3308,2025-11-05,Ibuprofen,NSAID,23,Female,Rash,Mild,Recovered,India,No
+3309,2025-11-06,Atorvastatin,Statin,48,Female,Muscle Pain,Moderate,Ongoing,India,No
+3310,2025-11-07,Omeprazole,PPI,44,Female,Dizziness,Mild,Recovered,India,No
+3311,2025-11-08,Metformin,Antidiabetic,43,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3312,2025-11-09,Aspirin,NSAID,80,Female,Nausea,Mild,Recovered,India,No
+3313,2025-11-10,Ibuprofen,NSAID,82,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3314,2025-11-11,Atorvastatin,Statin,31,Female,Headache,Mild,Recovered,India,No
+3315,2025-11-12,Omeprazole,PPI,64,Female,Rash,Mild,Recovered,India,No
+3316,2025-11-13,Metformin,Antidiabetic,72,Female,Nausea,Moderate,Ongoing,India,No
+3317,2025-11-14,Aspirin,NSAID,67,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3318,2025-11-15,Ibuprofen,NSAID,18,Male,Headache,Mild,Recovered,India,No
+3319,2025-11-16,Atorvastatin,Statin,71,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3320,2025-11-17,Omeprazole,PPI,58,Female,Nausea,Mild,Recovered,India,No
+3321,2025-11-18,Metformin,Antidiabetic,51,Male,Diarrhea,Moderate,Recovered,India,No
+3322,2025-11-19,Aspirin,NSAID,50,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3323,2025-11-20,Ibuprofen,NSAID,68,Female,Rash,Mild,Recovered,India,No
+3324,2025-11-21,Atorvastatin,Statin,75,Female,Muscle Pain,Moderate,Ongoing,India,No
+3325,2025-11-22,Omeprazole,PPI,43,Female,Dizziness,Mild,Recovered,India,No
+3326,2025-11-23,Metformin,Antidiabetic,19,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3327,2025-11-24,Aspirin,NSAID,29,Female,Nausea,Mild,Recovered,India,No
+3328,2025-11-25,Ibuprofen,NSAID,40,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3329,2025-11-26,Atorvastatin,Statin,58,Female,Headache,Mild,Recovered,India,No
+3330,2025-11-27,Omeprazole,PPI,55,Male,Rash,Mild,Recovered,India,No
+3331,2025-11-28,Metformin,Antidiabetic,80,Male,Nausea,Moderate,Ongoing,India,No
+3332,2025-11-29,Aspirin,NSAID,45,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3333,2025-11-30,Ibuprofen,NSAID,28,Male,Headache,Mild,Recovered,India,No
+3334,2025-12-01,Atorvastatin,Statin,55,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3335,2025-12-02,Omeprazole,PPI,84,Male,Dizziness,Mild,Recovered,India,No
+3336,2025-12-03,Metformin,Antidiabetic,45,Male,Diarrhea,Moderate,Recovered,India,No
+3337,2025-12-04,Aspirin,NSAID,85,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3338,2025-12-05,Ibuprofen,NSAID,69,Male,Rash,Mild,Recovered,India,No
+3339,2025-12-06,Atorvastatin,Statin,73,Female,Muscle Pain,Moderate,Ongoing,India,No
+3340,2025-12-07,Omeprazole,PPI,80,Male,Nausea,Mild,Recovered,India,No
+3341,2025-12-08,Metformin,Antidiabetic,35,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3342,2025-12-09,Aspirin,NSAID,79,Female,Nausea,Mild,Recovered,India,No
+3343,2025-12-10,Ibuprofen,NSAID,18,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3344,2025-12-11,Atorvastatin,Statin,50,Female,Headache,Mild,Recovered,India,No
+3345,2025-12-12,Omeprazole,PPI,24,Female,Rash,Mild,Recovered,India,No
+3346,2025-12-13,Metformin,Antidiabetic,52,Male,Nausea,Moderate,Ongoing,India,No
+3347,2025-12-14,Aspirin,NSAID,51,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3348,2025-12-15,Ibuprofen,NSAID,69,Female,Headache,Mild,Recovered,India,No
+3349,2025-12-16,Atorvastatin,Statin,78,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3350,2025-12-17,Omeprazole,PPI,61,Male,Dizziness,Mild,Recovered,India,No
+3351,2025-12-18,Metformin,Antidiabetic,45,Male,Nausea,Moderate,Recovered,India,No
+3352,2025-12-19,Aspirin,NSAID,70,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3353,2025-12-20,Ibuprofen,NSAID,25,Female,Dizziness,Mild,Recovered,India,No
+3354,2025-12-21,Atorvastatin,Statin,85,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3355,2025-12-22,Omeprazole,PPI,32,Female,Headache,Mild,Recovered,India,No
+3356,2025-12-23,Metformin,Antidiabetic,32,Male,Diarrhea,Moderate,Recovered,India,No
+3357,2025-12-24,Aspirin,NSAID,77,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3358,2025-12-25,Ibuprofen,NSAID,40,Female,Rash,Mild,Recovered,India,No
+3359,2025-12-26,Atorvastatin,Statin,70,Male,Muscle Pain,Moderate,Ongoing,India,No
+3360,2025-12-27,Omeprazole,PPI,36,Female,Dizziness,Mild,Recovered,India,No
+3361,2025-12-28,Metformin,Antidiabetic,81,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3362,2025-12-29,Aspirin,NSAID,45,Female,Nausea,Mild,Recovered,India,No
+3363,2025-12-30,Ibuprofen,NSAID,81,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3364,2025-12-31,Atorvastatin,Statin,18,Male,Headache,Mild,Recovered,India,No
+3365,2026-01-01,Omeprazole,PPI,74,Male,Rash,Mild,Recovered,India,No
+3366,2026-01-02,Metformin,Antidiabetic,68,Female,Nausea,Moderate,Ongoing,India,No
+3367,2026-01-03,Aspirin,NSAID,60,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3368,2026-01-04,Ibuprofen,NSAID,68,Female,Headache,Mild,Recovered,India,No
+3369,2026-01-05,Atorvastatin,Statin,24,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3370,2026-01-06,Omeprazole,PPI,43,Male,Nausea,Mild,Recovered,India,No
+3371,2026-01-07,Metformin,Antidiabetic,60,Male,Diarrhea,Moderate,Recovered,India,No
+3372,2026-01-08,Aspirin,NSAID,39,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3373,2026-01-09,Ibuprofen,NSAID,42,Female,Rash,Mild,Recovered,India,No
+3374,2026-01-10,Atorvastatin,Statin,65,Male,Muscle Pain,Moderate,Ongoing,India,No
+3375,2026-01-11,Omeprazole,PPI,40,Male,Dizziness,Mild,Recovered,India,No
+3376,2026-01-12,Metformin,Antidiabetic,23,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3377,2026-01-13,Aspirin,NSAID,18,Male,Nausea,Mild,Recovered,India,No
+3378,2026-01-14,Ibuprofen,NSAID,69,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3379,2026-01-15,Atorvastatin,Statin,29,Male,Headache,Mild,Recovered,India,No
+3380,2026-01-16,Omeprazole,PPI,83,Female,Rash,Mild,Recovered,India,No
+3381,2026-01-17,Metformin,Antidiabetic,39,Male,Nausea,Moderate,Ongoing,India,No
+3382,2026-01-18,Aspirin,NSAID,30,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3383,2026-01-19,Ibuprofen,NSAID,51,Female,Headache,Mild,Recovered,India,No
+3384,2026-01-20,Atorvastatin,Statin,73,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3385,2026-01-21,Omeprazole,PPI,33,Female,Dizziness,Mild,Recovered,India,No
+3386,2026-01-22,Metformin,Antidiabetic,25,Female,Diarrhea,Moderate,Recovered,India,No
+3387,2026-01-23,Aspirin,NSAID,76,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3388,2026-01-24,Ibuprofen,NSAID,32,Female,Rash,Mild,Recovered,India,No
+3389,2026-01-25,Atorvastatin,Statin,19,Male,Muscle Pain,Moderate,Ongoing,India,No
+3390,2026-01-26,Omeprazole,PPI,38,Female,Nausea,Mild,Recovered,India,No
+3391,2026-01-27,Metformin,Antidiabetic,32,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3392,2026-01-28,Aspirin,NSAID,27,Female,Nausea,Mild,Recovered,India,No
+3393,2026-01-29,Ibuprofen,NSAID,53,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3394,2026-01-30,Atorvastatin,Statin,82,Female,Headache,Mild,Recovered,India,No
+3395,2026-01-31,Omeprazole,PPI,18,Male,Rash,Mild,Recovered,India,No
+3396,2026-02-01,Metformin,Antidiabetic,24,Female,Nausea,Moderate,Ongoing,India,No
+3397,2026-02-02,Aspirin,NSAID,52,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3398,2026-02-03,Ibuprofen,NSAID,39,Male,Headache,Mild,Recovered,India,No
+3399,2026-02-04,Atorvastatin,Statin,26,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3400,2026-02-05,Omeprazole,PPI,46,Male,Dizziness,Mild,Recovered,India,No
+3401,2026-02-06,Metformin,Antidiabetic,64,Female,Nausea,Moderate,Recovered,India,No
+3402,2026-02-07,Aspirin,NSAID,43,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3403,2026-02-08,Ibuprofen,NSAID,22,Female,Dizziness,Mild,Recovered,India,No
+3404,2026-02-09,Atorvastatin,Statin,23,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3405,2026-02-10,Omeprazole,PPI,73,Male,Headache,Mild,Recovered,India,No
+3406,2026-02-11,Metformin,Antidiabetic,37,Female,Diarrhea,Moderate,Recovered,India,No
+3407,2026-02-12,Aspirin,NSAID,77,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3408,2026-02-13,Ibuprofen,NSAID,58,Male,Rash,Mild,Recovered,India,No
+3409,2026-02-14,Atorvastatin,Statin,61,Male,Muscle Pain,Moderate,Ongoing,India,No
+3410,2026-02-15,Omeprazole,PPI,36,Male,Dizziness,Mild,Recovered,India,No
+3411,2026-02-16,Metformin,Antidiabetic,49,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3412,2026-02-17,Aspirin,NSAID,37,Female,Nausea,Mild,Recovered,India,No
+3413,2026-02-18,Ibuprofen,NSAID,54,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3414,2026-02-19,Atorvastatin,Statin,42,Male,Headache,Mild,Recovered,India,No
+3415,2026-02-20,Omeprazole,PPI,66,Male,Rash,Mild,Recovered,India,No
+3416,2026-02-21,Metformin,Antidiabetic,70,Female,Nausea,Moderate,Ongoing,India,No
+3417,2026-02-22,Aspirin,NSAID,38,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3418,2026-02-23,Ibuprofen,NSAID,44,Female,Headache,Mild,Recovered,India,No
+3419,2026-02-24,Atorvastatin,Statin,68,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3420,2026-02-25,Omeprazole,PPI,84,Female,Nausea,Mild,Recovered,India,No
+3421,2026-02-26,Metformin,Antidiabetic,74,Male,Diarrhea,Moderate,Recovered,India,No
+3422,2026-02-27,Aspirin,NSAID,71,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3423,2026-02-28,Ibuprofen,NSAID,32,Male,Rash,Mild,Recovered,India,No
+3424,2026-03-01,Atorvastatin,Statin,31,Male,Muscle Pain,Moderate,Ongoing,India,No
+3425,2026-03-02,Omeprazole,PPI,55,Female,Dizziness,Mild,Recovered,India,No
+3426,2026-03-03,Metformin,Antidiabetic,59,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3427,2026-03-04,Aspirin,NSAID,38,Male,Nausea,Mild,Recovered,India,No
+3428,2026-03-05,Ibuprofen,NSAID,43,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3429,2026-03-06,Atorvastatin,Statin,49,Male,Headache,Mild,Recovered,India,No
+3430,2026-03-07,Omeprazole,PPI,40,Male,Rash,Mild,Recovered,India,No
+3431,2026-03-08,Metformin,Antidiabetic,49,Male,Nausea,Moderate,Ongoing,India,No
+3432,2026-03-09,Aspirin,NSAID,22,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3433,2026-03-10,Ibuprofen,NSAID,75,Female,Headache,Mild,Recovered,India,No
+3434,2026-03-11,Atorvastatin,Statin,71,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3435,2026-03-12,Omeprazole,PPI,39,Female,Dizziness,Mild,Recovered,India,No
+3436,2026-03-13,Metformin,Antidiabetic,21,Male,Diarrhea,Moderate,Recovered,India,No
+3437,2026-03-14,Aspirin,NSAID,27,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3438,2026-03-15,Ibuprofen,NSAID,58,Female,Rash,Mild,Recovered,India,No
+3439,2026-03-16,Atorvastatin,Statin,81,Female,Muscle Pain,Moderate,Ongoing,India,No
+3440,2026-03-17,Omeprazole,PPI,66,Male,Nausea,Mild,Recovered,India,No
+3441,2026-03-18,Metformin,Antidiabetic,75,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3442,2026-03-19,Aspirin,NSAID,82,Male,Nausea,Mild,Recovered,India,No
+3443,2026-03-20,Ibuprofen,NSAID,24,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3444,2026-03-21,Atorvastatin,Statin,66,Female,Headache,Mild,Recovered,India,No
+3445,2026-03-22,Omeprazole,PPI,62,Female,Rash,Mild,Recovered,India,No
+3446,2026-03-23,Metformin,Antidiabetic,69,Male,Nausea,Moderate,Ongoing,India,No
+3447,2026-03-24,Aspirin,NSAID,81,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3448,2026-03-25,Ibuprofen,NSAID,44,Female,Headache,Mild,Recovered,India,No
+3449,2026-03-26,Atorvastatin,Statin,19,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3450,2026-03-27,Omeprazole,PPI,26,Female,Dizziness,Mild,Recovered,India,No
+3451,2026-03-28,Metformin,Antidiabetic,76,Female,Nausea,Moderate,Recovered,India,No
+3452,2026-03-29,Aspirin,NSAID,20,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3453,2026-03-30,Ibuprofen,NSAID,39,Female,Dizziness,Mild,Recovered,India,No
+3454,2026-03-31,Atorvastatin,Statin,51,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3455,2026-04-01,Omeprazole,PPI,57,Female,Headache,Mild,Recovered,India,No
+3456,2026-04-02,Metformin,Antidiabetic,31,Female,Diarrhea,Moderate,Recovered,India,No
+3457,2026-04-03,Aspirin,NSAID,19,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3458,2026-04-04,Ibuprofen,NSAID,43,Female,Rash,Mild,Recovered,India,No
+3459,2026-04-05,Atorvastatin,Statin,25,Female,Muscle Pain,Moderate,Ongoing,India,No
+3460,2026-04-06,Omeprazole,PPI,79,Male,Dizziness,Mild,Recovered,India,No
+3461,2026-04-07,Metformin,Antidiabetic,66,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3462,2026-04-08,Aspirin,NSAID,40,Female,Nausea,Mild,Recovered,India,No
+3463,2026-04-09,Ibuprofen,NSAID,60,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3464,2026-04-10,Atorvastatin,Statin,55,Female,Headache,Mild,Recovered,India,No
+3465,2026-04-11,Omeprazole,PPI,78,Male,Rash,Mild,Recovered,India,No
+3466,2026-04-12,Metformin,Antidiabetic,48,Male,Nausea,Moderate,Ongoing,India,No
+3467,2026-04-13,Aspirin,NSAID,67,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3468,2026-04-14,Ibuprofen,NSAID,21,Female,Headache,Mild,Recovered,India,No
+3469,2026-04-15,Atorvastatin,Statin,27,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3470,2026-04-16,Omeprazole,PPI,80,Female,Nausea,Mild,Recovered,India,No
+3471,2026-04-17,Metformin,Antidiabetic,26,Male,Diarrhea,Moderate,Recovered,India,No
+3472,2026-04-18,Aspirin,NSAID,25,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3473,2026-04-19,Ibuprofen,NSAID,26,Female,Rash,Mild,Recovered,India,No
+3474,2026-04-20,Atorvastatin,Statin,63,Male,Muscle Pain,Moderate,Ongoing,India,No
+3475,2026-04-21,Omeprazole,PPI,26,Female,Dizziness,Mild,Recovered,India,No
+3476,2026-04-22,Metformin,Antidiabetic,70,Male,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3477,2026-04-23,Aspirin,NSAID,30,Male,Nausea,Mild,Recovered,India,No
+3478,2026-04-24,Ibuprofen,NSAID,82,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3479,2026-04-25,Atorvastatin,Statin,77,Male,Headache,Mild,Recovered,India,No
+3480,2026-04-26,Omeprazole,PPI,21,Female,Rash,Mild,Recovered,India,No
+3481,2026-04-27,Metformin,Antidiabetic,29,Male,Nausea,Moderate,Ongoing,India,No
+3482,2026-04-28,Aspirin,NSAID,28,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3483,2026-04-29,Ibuprofen,NSAID,32,Female,Headache,Mild,Recovered,India,No
+3484,2026-04-30,Atorvastatin,Statin,42,Female,Liver Toxicity,Severe,Ongoing,India,Yes
+3485,2026-05-01,Omeprazole,PPI,70,Male,Dizziness,Mild,Recovered,India,No
+3486,2026-05-02,Metformin,Antidiabetic,50,Male,Diarrhea,Moderate,Recovered,India,No
+3487,2026-05-03,Aspirin,NSAID,43,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3488,2026-05-04,Ibuprofen,NSAID,19,Male,Rash,Mild,Recovered,India,No
+3489,2026-05-05,Atorvastatin,Statin,21,Female,Muscle Pain,Moderate,Ongoing,India,No
+3490,2026-05-06,Omeprazole,PPI,83,Male,Nausea,Mild,Recovered,India,No
+3491,2026-05-07,Metformin,Antidiabetic,65,Female,Lactic Acidosis,Severe,Hospitalized,India,Yes
+3492,2026-05-08,Aspirin,NSAID,64,Female,Nausea,Mild,Recovered,India,No
+3493,2026-05-09,Ibuprofen,NSAID,18,Female,GI Bleeding,Severe,Hospitalized,India,Yes
+3494,2026-05-10,Atorvastatin,Statin,72,Male,Headache,Mild,Recovered,India,No
+3495,2026-05-11,Omeprazole,PPI,72,Female,Rash,Mild,Recovered,India,No
+3496,2026-05-12,Metformin,Antidiabetic,85,Female,Nausea,Moderate,Ongoing,India,No
+3497,2026-05-13,Aspirin,NSAID,74,Male,GI Bleeding,Severe,Hospitalized,India,Yes
+3498,2026-05-14,Ibuprofen,NSAID,28,Male,Headache,Mild,Recovered,India,No
+3499,2026-05-15,Atorvastatin,Statin,40,Male,Liver Toxicity,Severe,Ongoing,India,Yes
+3500,2026-05-16,Omeprazole,PPI,50,Female,Dizziness,Mild,Recovered,India,No
